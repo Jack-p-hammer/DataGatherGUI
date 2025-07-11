@@ -5,7 +5,6 @@ import PySimpleGUI as sg
 import matplotlib 
 matplotlib.use('TkAgg')
 import pandas as pd
-import PySimpleGUI as sg
 import serial.tools.list_ports
 from random import randint
 from matplotlib.animation import FuncAnimation
